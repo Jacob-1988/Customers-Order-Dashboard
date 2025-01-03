@@ -11,23 +11,23 @@ This dashboard is created in order to provide a centralized, interactive and vis
 * Step 2: Clean the data by removing duplicates, filling missing values and formatting columns.
 * Step 3:   Convert the dataset into an excel Table (Ctrl T) for easier referencing
 * Step 4: Create calculated column such as Profit Margin in order derive key metrics:
-* Profit Margin = [Profit/SALES]*100
+* Profit Margin = [Profit/Sales]*100
 
-* Step 6: Create Pivot Tables and use it to analyze the following:
+* Step 5: Create Pivot Tables and use it to analyze the following:
 * Oredr priority impact
 * Order profits by States
 * Shipping cost by category
-* Shipping ccost by region
+* Shipping cost by region
 * Sales and profits by category
 * Monthly sales an profit
 * Sales and profit by segment
-* Step 5: Build visualizations 
+* Step 6: Build visualizations 
 * Insert charts to represent the summarized data visually. This is done as follows:
-* bar Charts: For sales and profitby category
-* Line charts: sales and profits by sub-category
-* Line Charts: Monthly sales and profit
-* Bar chart : sales and profit by segment
-* Profit margin by region
+* **bar Charts:** For sales and profitby category
+* **Line Charts:** Sales and Profits by sub-category
+* **Line Charts**: Monthly sales and profit
+* **Bar Chart**: Sales and Profits by segment
+* **Pie Chart**: Profit margin by region
 
 * Step 7: Add Interactivity
 * Use slicers to filter data by dimensions such as shipping cost, category.
